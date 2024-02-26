@@ -67,7 +67,7 @@ const Projects: React.FC<{}> = () => {
             target="_blank"
             className="z-[1]"
           >
-            <div className="flex-row flex md:ml-40 mr-40">
+            <div className="flex-row flex md:ml-40 mr-0">
               <Image
                 src="/ThridProject.jpg"
                 height={130}
