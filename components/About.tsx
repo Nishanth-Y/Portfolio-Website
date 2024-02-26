@@ -11,19 +11,14 @@ const About: React.FC<{}> = () => {
         <h1 className="text-white font-semibold text-6xl">ABOUT ME</h1>
         <br />
         <p className="text-gray-300 text-center ">
-          I'm Nishant from Bangalore. I hold a bachelor's degree in Computer
-          Science from BMSIT . In terms of soft skills, I'm optimistic,
+          I am Nishant from Bangalore. I hold a bachelors degree in Computer
+          Science from BMSIT . In terms of soft skills, Im optimistic,
           self-confident, and hardworking. My technical skills include
           proficiency in Python, Java, C/C++ programming, Javascript, and MS
           Excel. Coming to my achievements, I worked as chief technical lead for
           our college fest Utsaha Vaibhav 2023. Outside of work, I enjoy Movies,
           internet surfing, badminton .
           <br />
-          <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
         </p>
       </div>
     </section>
