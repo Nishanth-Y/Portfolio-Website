@@ -12,7 +12,7 @@ const Projects: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="https://github.com/Nishanth-Y/Movie-Data-Analysis/blob/main/Movie%20Analysis.ipynb"
+            href="https://github.com/Nishanth-Y/Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers-By-Nishanth-Y/blob/main/README.md"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -26,12 +26,11 @@ const Projects: React.FC<{}> = () => {
               />
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">
-                  Movie Data Analysis
+                 Analyze Death Age Difference of Right Handers with Left Handers
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  Analysed movie related data from Kaggle and visualized the
-                  features using scatter plot and regression plot, found
-                  correlation between different features.
+                This project proposal describes a data analysis effort to look at whether left-handed and right-
+                handed people die at different ages on average.
                 </p>
               </div>
             </div>
