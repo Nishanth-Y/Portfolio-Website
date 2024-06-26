@@ -51,7 +51,7 @@ const Projects: React.FC<{}> = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Uni-Zone</p>
                 <p className="text-gray-500 text-[10px]">
-                  Implemented a Social Media Clone, for college clubs where club
+                  Implemented a Social Media Website Clone, for college clubs where club
                   coordinator able to post updates regarding Events and
                   Activities, this application developed using Django.
                 </p>
